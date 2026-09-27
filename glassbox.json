@@ -1,0 +1,106 @@
+{
+  "slug": "tongueclear",
+  "box": 34,
+  "date": "2026-10-14",
+  "title": "TongueClear",
+  "question": "How does the tongue taste?",
+  "hook": "The tongue map in your school book is a myth, chilli heat is not a taste at all, and most of what you call flavour is really smell. Open up a 3D mouth, watch sugar, salt and glutamate dock on their receptors, and see why milk beats water after a bhut jolokia.",
+  "thumbText": "HOW THE TONGUE TASTES",
+  "field": "body",
+  "minutes": 15,
+  "tags": [
+    "tongue",
+    "taste",
+    "taste buds",
+    "umami",
+    "chilli",
+    "capsaicin",
+    "flavour",
+    "human body",
+    "biology",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A muscle covered in taste buds",
+      "text": "The tongue is all muscle and no bone, moved by eight pairs of muscles. Its top is covered in papillae: filiform spikes for touch, and fungiform, foliate and circumvallate papillae that hide about 2,000 to 4,000 taste buds, each an onion of 50 to 150 cells."
+    },
+    {
+      "title": "Five tastes, five receptors",
+      "text": "Sweet sugars clamp onto T1R2 + T1R3; umami glutamate onto T1R1 + T1R3. About 25 T2R receptors catch bitter, a warning sense. Sour protons flow in through the OTOP1 channel and salty sodium through ENaC. The brain reads the pattern across all five."
+    },
+    {
+      "title": "The tongue map is a myth",
+      "text": "A 1901 study found small differences in sensitivity around the tongue's edge. A 1942 redrawing was misread as sweet only on the tip and bitter only at the back. Every area with taste buds senses all five; the middle is weaker only because it has few buds."
+    },
+    {
+      "title": "Chilli heat is pain",
+      "text": "Capsaicin opens TRPV1, a heat sensor on nerve endings that normally opens above about 43 °C, so chilli feels hot. Menthol opens TRPM8, the cold sensor. The bhut jolokia passed a million Scoville units in 2007; milk and curd wash the oily capsaicin away far better than water."
+    },
+    {
+      "title": "Flavour is mostly smell",
+      "text": "As you chew and breathe out, aroma flows from the back of the mouth up into the nose. Hold your nose and mango shrinks to sweet and a bit sour. Taste also needs saliva, and supertasters find some bitter chemicals far stronger."
+    },
+    {
+      "title": "Always renewing",
+      "text": "Taste cells last about ten days on average and are replaced by stem cells, which is why a tongue scalded by hot tea usually recovers. Age, smoking, colds, COVID-19, medicines and a dry mouth can change taste; if it changes suddenly or does not come back, see a doctor."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Taste bud",
+      "def": "An onion-shaped cluster of about 50 to 150 cells that detect taste chemicals dissolved in saliva."
+    },
+    {
+      "term": "Papillae",
+      "def": "The small bumps on the tongue; filiform papillae sense touch, the other three kinds carry taste buds."
+    },
+    {
+      "term": "Receptor",
+      "def": "A protein on a cell that catches one kind of chemical and switches the cell on."
+    },
+    {
+      "term": "Umami",
+      "def": "The savoury taste of glutamate, found in tomatoes, dal, broth and cheese; named by Kikunae Ikeda in 1908."
+    },
+    {
+      "term": "Ion channel",
+      "def": "A protein doorway in a cell’s skin; sour (OTOP1) and salty (ENaC) tastes work through channels."
+    },
+    {
+      "term": "TRPV1",
+      "def": "A heat and pain sensor on nerve endings that opens above about 43 °C and with capsaicin from chillies."
+    },
+    {
+      "term": "Scoville heat unit",
+      "def": "A measure of chilli heat; pure capsaicin is about 16 million SHU."
+    },
+    {
+      "term": "Retronasal smell",
+      "def": "Smelling food from inside the mouth as air flows up into the nose; most of flavour."
+    },
+    {
+      "term": "Supertaster",
+      "def": "A person who finds certain bitter chemicals, like PROP, very intense; about a quarter of people."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "tongueclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

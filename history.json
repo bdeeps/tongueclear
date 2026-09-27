@@ -1,0 +1,887 @@
+{
+  "title": "The history of understanding taste",
+  "tagline": "From Aristotle and the six rasas of Ayurveda to a myth-making tongue map, the discovery of umami, and receptors for every taste.",
+  "intro": "People have argued about how many tastes there are for over 2,000 years. For most of that time taste was a matter of philosophy and cooking. Microscopes found the taste buds, careful tests found (and a misreading invented) a tongue map, and a Japanese chemist found a taste Europe had missed. In the last 30 years, genetics revealed the receptor for each of the five tastes, and showed that chilli heat is really a pain and heat sensor at work.",
+  "eras": [
+    {
+      "id": "ideas",
+      "name": "Naming the tastes",
+      "from": -400,
+      "to": 1800,
+      "color": "#c49bff",
+      "summary": "Philosophers and physicians in Greece and India sort tastes into short lists, including some, like pungent and astringent, that science now calls touch."
+    },
+    {
+      "id": "buds",
+      "name": "Buds, maps and myths",
+      "from": 1860,
+      "to": 1975,
+      "color": "#ffb547",
+      "summary": "Microscopes reveal the taste buds; a study of the tongue edge is misread into the famous tongue map, then tested and found wrong."
+    },
+    {
+      "id": "molecules",
+      "name": "Umami, chillies and genes",
+      "from": 1900,
+      "to": 1995,
+      "color": "#ff7a59",
+      "summary": "A fifth taste is found in seaweed broth, chilli heat gets a scale, and some people turn out to be blind to a bitter chemical."
+    },
+    {
+      "id": "receptors",
+      "name": "A receptor for every taste",
+      "from": 1997,
+      "to": 2019,
+      "color": "#5ce1a9",
+      "summary": "Genetics finds the sensors: T1Rs for sweet and umami, T2Rs for bitter, ENaC for salt, OTOP1 for sour, and TRP channels for heat and cold."
+    },
+    {
+      "id": "heat",
+      "name": "Records, a pandemic and a Nobel",
+      "from": 2007,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Chilli breeders chase heat records, COVID-19 shows the world how flavour depends on smell, and the heat sensor wins a Nobel Prize."
+    }
+  ],
+  "events": [
+    {
+      "year": -350,
+      "date": "c. 350 BCE",
+      "era": "ideas",
+      "art": "word",
+      "key": true,
+      "title": "Aristotle lists the tastes",
+      "who": "Aristotle",
+      "where": "Athens, Greece",
+      "country": "Greece",
+      "text": "In his book On the Soul, Aristotle wrote that the two basic tastes are sweet and bitter. Between them he placed oily, salty, pungent, harsh (astringent) and sour, a list of seven or eight flavours.",
+      "why": "It was one of the first attempts to sort tastes into a short list of basics, an idea still used today.",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": -100,
+      "date": "c. 2nd century BCE to 2nd century CE",
+      "era": "ideas",
+      "art": "leaf",
+      "key": true,
+      "title": "Ayurveda names six rasas",
+      "who": "The Charaka Samhita (compiled by physicians in the tradition of Agnivesha and Charaka)",
+      "where": "Ancient India",
+      "country": "India",
+      "text": "The Charaka Samhita, a founding text of Ayurveda, describes six rasas, or tastes: madhura (sweet), amla (sour), lavana (salty), katu (pungent), tikta (bitter) and kashaya (astringent). A healthy diet, it says, balances all six. Its date is uncertain; it was revised over several centuries.",
+      "why": "Its six tastes include pungent and astringent, which science now files under touch and pain rather than taste, as this box shows.",
+      "box": "chilli",
+      "sources": [
+        2,
+        3
+      ]
+    },
+    {
+      "year": 1867,
+      "date": "1867",
+      "era": "buds",
+      "art": "tongue",
+      "title": "Taste buds are discovered",
+      "who": "Christian Lovén and Gustav Schwalbe",
+      "where": "Stockholm, Sweden, and Germany",
+      "country": "Sweden / Germany",
+      "text": "Working separately, the Swedish anatomist Christian Lovén and the German anatomist Gustav Schwalbe looked at the tongue under the microscope and found small onion-shaped clusters of cells, which they called taste bulbs or taste goblets.",
+      "why": "It showed that taste is sensed by special groups of cells, not by the whole tongue surface.",
+      "box": "anatomy",
+      "sources": [
+        4,
+        5
+      ]
+    },
+    {
+      "year": 1901,
+      "date": "1901",
+      "era": "buds",
+      "art": "tongue",
+      "key": true,
+      "title": "Hänig measures the edge of the tongue",
+      "who": "David P. Hänig",
+      "where": "Leipzig, Germany",
+      "country": "Germany",
+      "text": "In a paper called \"On the psychophysics of the sense of taste\", Hänig dripped sweet, sour, salty and bitter solutions on spots around the edge of people's tongues and found the weakest strength each could notice. The differences between spots were small.",
+      "why": "His careful data were later misread as a tongue map, one of the most famous myths in science teaching.",
+      "box": "map",
+      "sources": [
+        6,
+        7
+      ]
+    },
+    {
+      "year": 1908,
+      "date": "1908",
+      "era": "molecules",
+      "art": "molecule",
+      "key": true,
+      "title": "Ikeda finds umami in kombu",
+      "who": "Kikunae Ikeda",
+      "where": "Tokyo Imperial University, Japan",
+      "country": "Japan",
+      "text": "The chemist Kikunae Ikeda wondered why kombu seaweed broth (dashi) tasted so savoury. He boiled down large amounts of kombu and extracted glutamic acid, whose salts gave the taste. He named it umami, from the Japanese for \"delicious\".",
+      "why": "It was the first scientific claim for a fifth basic taste, though the West took most of a century to accept it.",
+      "box": "five",
+      "sources": [
+        8,
+        9
+      ]
+    },
+    {
+      "year": 1909,
+      "date": "1909",
+      "era": "molecules",
+      "art": "building",
+      "title": "MSG goes on sale",
+      "who": "Kikunae Ikeda and Saburosuke Suzuki",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "Ikeda patented a way to make monosodium glutamate (MSG) and teamed up with the businessman Saburosuke Suzuki to sell it as a seasoning called Ajinomoto, \"essence of taste\".",
+      "why": "It turned a taste discovery into one of the world's most widely used food ingredients.",
+      "sources": [
+        10,
+        9
+      ]
+    },
+    {
+      "year": 1912,
+      "date": "1912",
+      "era": "molecules",
+      "art": "flame",
+      "key": true,
+      "title": "Scoville measures chilli heat",
+      "who": "Wilbur Scoville",
+      "where": "Detroit, USA",
+      "country": "USA",
+      "text": "The pharmacist Wilbur Scoville, working for the drug company Parke-Davis, soaked dried chillies in alcohol, then diluted the extract with sugar water until a panel of tasters could no longer feel the heat. The number of dilutions became the Scoville heat unit.",
+      "why": "It gave the world a scale for chilli heat, still used today, though labs now measure capsaicin with machines.",
+      "box": "chilli",
+      "sources": [
+        11,
+        12
+      ]
+    },
+    {
+      "year": 1931,
+      "date": "1931",
+      "era": "molecules",
+      "art": "person",
+      "key": true,
+      "title": "The chemical some people cannot taste",
+      "who": "Arthur Fox",
+      "where": "DuPont laboratory, Wilmington, USA",
+      "country": "USA",
+      "text": "Fox was pouring a powder called PTC when some of it blew into the air. His colleague C. R. Noller complained it was very bitter; Fox, standing closer, tasted nothing. Testing others showed that people differ: roughly a third of people worldwide cannot taste it.",
+      "why": "It was the first clear sign that taste is partly in our genes. The gene, TAS2R38, a bitter receptor, was found in 2003.",
+      "box": "flavour",
+      "sources": [
+        13,
+        14
+      ]
+    },
+    {
+      "year": 1942,
+      "date": "1942",
+      "era": "buds",
+      "art": "word",
+      "title": "A graph without units starts a myth",
+      "who": "Edwin G. Boring",
+      "where": "Harvard University, USA",
+      "country": "USA",
+      "text": "In his history of the psychology of the senses, Boring redrew Hänig's 1901 results as a graph of how sensitive each part of the tongue edge was, with no numbers on the scale. Readers took the peaks to mean each taste lived in only one area, and a tongue map spread into textbooks.",
+      "why": "It shows how a small misreading can travel for decades.",
+      "box": "map",
+      "sources": [
+        6,
+        7
+      ]
+    },
+    {
+      "year": 1965,
+      "date": "1965",
+      "era": "buds",
+      "art": "tongue",
+      "title": "Taste cells are always being replaced",
+      "who": "Lloyd Beidler and Richard Smallman",
+      "where": "Florida State University, USA",
+      "country": "USA",
+      "text": "By labelling new cells in rats, Beidler and Smallman showed that taste-bud cells are constantly replaced, living about ten days on average before new ones take their place.",
+      "why": "It explains why taste usually recovers after a burn from hot food or drink.",
+      "box": "health",
+      "sources": [
+        15,
+        16
+      ]
+    },
+    {
+      "year": 1974,
+      "date": "1974",
+      "era": "buds",
+      "art": "tongue",
+      "key": true,
+      "title": "The tongue map is tested and fails",
+      "who": "Virginia B. Collings",
+      "where": "University of Pittsburgh, USA",
+      "country": "USA",
+      "text": "Collings repeated the tests on many spots of the tongue and found that all four tastes then known could be sensed everywhere with taste buds. The weakest noticeable strength differed a little from place to place, but no area was blind to any taste.",
+      "why": "It was the scientific end of the tongue map, even if school books kept it for years.",
+      "box": "map",
+      "sources": [
+        6,
+        17
+      ]
+    },
+    {
+      "year": 1985,
+      "date": "1985",
+      "era": "molecules",
+      "art": "word",
+      "title": "Umami becomes a scientific word",
+      "who": "First Umami International Symposium",
+      "where": "Hawaii, USA",
+      "country": "USA",
+      "text": "Researchers from many countries met in Hawaii for the first international meeting on umami. Shizuko Yamaguchi showed with careful taste tests that umami could not be made by mixing the other four tastes, and \"umami\" was adopted as the scientific name for the taste of glutamate.",
+      "why": "It put umami on the world's scientific map, though its receptor was still unknown.",
+      "sources": [
+        18,
+        8
+      ]
+    },
+    {
+      "year": 1994,
+      "date": "1994",
+      "era": "molecules",
+      "art": "person",
+      "title": "Supertasters",
+      "who": "Linda Bartoshuk and colleagues",
+      "where": "Yale University, USA",
+      "country": "USA",
+      "text": "Bartoshuk's team found that people fall into three groups for the bitter chemical PROP: non-tasters, medium tasters and \"supertasters\", who find it intensely bitter and tend to have more fungiform papillae. In their samples, about a quarter of people were supertasters.",
+      "why": "It showed that people really do live in different taste worlds.",
+      "box": "flavour",
+      "sources": [
+        19,
+        20
+      ]
+    },
+    {
+      "year": 1997,
+      "date": "1997",
+      "era": "receptors",
+      "art": "flame",
+      "title": "The capsaicin receptor is found",
+      "who": "David Julius and colleagues",
+      "where": "University of California, San Francisco, USA",
+      "country": "USA",
+      "text": "Julius's team searched through thousands of genes for one that made cells respond to capsaicin. They found TRPV1, a channel that also opens at painful heat above about 43 °C.",
+      "why": "It explained why chilli feels hot, and opened the science of how we sense temperature.",
+      "box": "chilli",
+      "sources": [
+        21,
+        22
+      ]
+    },
+    {
+      "year": 1999,
+      "date": "1999",
+      "era": "receptors",
+      "art": "molecule",
+      "title": "The first taste receptor genes",
+      "who": "Mark Hoon, Nicholas Ryba, Charles Zuker and colleagues",
+      "where": "NIH and University of California, San Diego, USA",
+      "country": "USA",
+      "text": "The team found two genes for receptors made only in taste cells, later named T1R1 and T1R2. It took two more years to learn what they detect.",
+      "why": "It was the first step to naming the molecules behind each taste.",
+      "sources": [
+        23,
+        24
+      ]
+    },
+    {
+      "year": 2000,
+      "date": "2000",
+      "era": "receptors",
+      "art": "molecule",
+      "title": "A family of bitter receptors",
+      "who": "Several teams, including Zuker and Ryba, and Linda Buck",
+      "where": "USA",
+      "country": "USA",
+      "text": "Three papers described the T2Rs, a family of about 25 bitter receptors in humans. Many bitter cells carry several kinds, so one cell can warn of many different poisons. The same year, a team in Miami proposed a glutamate receptor for umami.",
+      "why": "It showed why bitter is so sensitive: it is a warning system built to catch thousands of chemicals.",
+      "box": "five",
+      "sources": [
+        25,
+        26
+      ]
+    },
+    {
+      "year": 2001,
+      "date": "2001–2002",
+      "era": "receptors",
+      "art": "molecule",
+      "key": true,
+      "title": "Sweet and umami receptors are pinned down",
+      "who": "Greg Nelson, Charles Zuker, Nicholas Ryba and others",
+      "where": "USA",
+      "country": "USA",
+      "text": "Teams found a third gene, T1R3, and showed that T1R2 + T1R3 together make the sweet receptor (2001), while T1R1 + T1R3 make the umami receptor for glutamate (2002).",
+      "why": "Umami finally had a receptor of its own, and its place as the fifth basic taste was settled.",
+      "box": "five",
+      "sources": [
+        27,
+        28
+      ]
+    },
+    {
+      "year": 2002,
+      "date": "2002",
+      "era": "receptors",
+      "art": "molecule",
+      "title": "The cold and menthol sensor",
+      "who": "David Julius's and Ardem Patapoutian's labs",
+      "where": "San Francisco and La Jolla, USA",
+      "country": "USA",
+      "text": "Two teams independently found TRPM8, a channel on nerve endings that opens with cool temperatures and with menthol from mint.",
+      "why": "It explained why mint feels cold even when it is not.",
+      "box": "chilli",
+      "sources": [
+        29,
+        30
+      ]
+    },
+    {
+      "year": 2007,
+      "date": "February 2007",
+      "era": "heat",
+      "art": "trophy",
+      "key": true,
+      "title": "The first million-Scoville chilli",
+      "who": "Paul Bosland, Chile Pepper Institute",
+      "where": "New Mexico State University, USA, with seeds from north-east India",
+      "country": "India / USA",
+      "text": "Guinness World Records certified the bhut jolokia, the \"ghost pepper\" grown in Assam and nearby states, as the world's hottest chilli, after lab tests measured 1,001,304 Scoville heat units.",
+      "why": "It was the first chilli certified above a million SHU, nearly double the previous record holder.",
+      "box": "chilli",
+      "sources": [
+        31,
+        32
+      ]
+    },
+    {
+      "year": 2010,
+      "date": "2010",
+      "era": "receptors",
+      "art": "molecule",
+      "title": "The salt channel",
+      "who": "Jayaram Chandrashekar, Charles Zuker, Nicholas Ryba and colleagues",
+      "where": "USA",
+      "country": "USA",
+      "text": "Mice without the sodium channel ENaC in their taste cells lost their liking for low salt. So ENaC is the sensor for pleasant saltiness, while very salty food also triggers bitter and sour cells.",
+      "why": "It explained why a little salt tastes good and a lot tastes bad.",
+      "box": "five",
+      "sources": [
+        33,
+        34
+      ]
+    },
+    {
+      "year": 2013,
+      "date": "November 2013",
+      "era": "heat",
+      "art": "trophy",
+      "title": "The Carolina Reaper",
+      "who": "Ed Currie, PuckerButt Pepper Company",
+      "where": "South Carolina, USA",
+      "country": "USA",
+      "text": "Guinness World Records confirmed the Carolina Reaper, a cross-bred chilli, as the hottest, at an average of 1,569,300 Scoville heat units; a 2017 re-test put it at 1,641,183.",
+      "why": "Breeders were now deliberately crossing chillies to push the heat higher.",
+      "sources": [
+        35,
+        36
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "2015",
+      "era": "receptors",
+      "art": "word",
+      "title": "Is fat a sixth taste?",
+      "who": "Cordelia Running, Bruce Craig and Richard Mattes",
+      "where": "Purdue University, USA",
+      "country": "USA",
+      "text": "Taste tests suggested that fatty acids have a taste of their own, which the team proposed calling \"oleogustus\". Earlier work had found fat-sensing receptors such as CD36 on taste cells. Scientists still debate it, along with \"kokumi\", a richness linked to a calcium-sensing receptor.",
+      "why": "The list of basic tastes may not be finished.",
+      "box": "flavour",
+      "sources": [
+        37,
+        0
+      ]
+    },
+    {
+      "year": 2018,
+      "date": "2018–2019",
+      "era": "receptors",
+      "art": "molecule",
+      "key": true,
+      "title": "The sour receptor at last",
+      "who": "Emily Liman's lab; Charles Zuker's lab",
+      "where": "Los Angeles and New York, USA",
+      "country": "USA",
+      "text": "Sour was the last basic taste without a known receptor. In 2018 Liman's team showed that OTOP1, a channel that lets protons in, is found in sour cells. In 2019 her lab and Zuker's showed that mice without it barely sense sour.",
+      "why": "It completed the set: each of the five tastes now has a known sensor.",
+      "box": "five",
+      "sources": [
+        38,
+        39
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "2020",
+      "era": "heat",
+      "art": "earth",
+      "title": "Losing taste and smell to COVID-19",
+      "who": "Doctors and health agencies worldwide",
+      "where": "Worldwide",
+      "country": "Worldwide",
+      "text": "During the COVID-19 pandemic, sudden loss of smell, and with it much of the sense of taste, became one of the best-known symptoms. Health services such as the UK's NHS and the US CDC added it to their symptom lists in 2020.",
+      "why": "Millions of people learned how much of flavour depends on smell, and research into smell loss grew fast.",
+      "box": "health",
+      "sources": [
+        40,
+        41
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "October 2021",
+      "era": "heat",
+      "art": "trophy",
+      "key": true,
+      "title": "A Nobel Prize for heat and touch",
+      "who": "David Julius and Ardem Patapoutian",
+      "where": "Stockholm, Sweden",
+      "country": "USA",
+      "text": "The Nobel Prize in Physiology or Medicine went to Julius, for finding TRPV1 with capsaicin, and to Patapoutian, for finding the touch sensors PIEZO1 and PIEZO2. Both also found TRPM8, the cold sensor.",
+      "why": "The science behind chilli heat and minty cool reached the top of medicine.",
+      "box": "chilli",
+      "sources": [
+        22,
+        42
+      ]
+    },
+    {
+      "year": 2023,
+      "date": "2023",
+      "era": "heat",
+      "art": "trophy",
+      "title": "Pepper X",
+      "who": "Ed Currie, PuckerButt Pepper Company",
+      "where": "South Carolina, USA",
+      "country": "USA",
+      "text": "Guinness World Records named Pepper X, bred by the grower of the Carolina Reaper over a decade, the hottest chilli, at an average of 2,693,000 Scoville heat units.",
+      "why": "Chilli breeding keeps pushing a plant's defence chemical to extremes.",
+      "sources": [
+        44,
+        45,
+        43
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Written list of basic tastes",
+      "value": "c. 350 BCE",
+      "who": "Aristotle, Greece"
+    },
+    {
+      "label": "Six tastes as the basis of a healthy diet",
+      "value": "c. 2nd century BCE to 2nd century CE",
+      "who": "Charaka Samhita, India"
+    },
+    {
+      "label": "Taste buds seen under the microscope",
+      "value": "1867",
+      "who": "Christian Lovén and Gustav Schwalbe"
+    },
+    {
+      "label": "Umami identified",
+      "value": "1908",
+      "who": "Kikunae Ikeda, Japan"
+    },
+    {
+      "label": "Chilli heat scale",
+      "value": "1912",
+      "who": "Wilbur Scoville, USA"
+    },
+    {
+      "label": "Heat and capsaicin sensor (TRPV1) found",
+      "value": "1997",
+      "who": "David Julius, USA"
+    },
+    {
+      "label": "Chilli certified above one million SHU",
+      "value": "2007",
+      "who": "Bhut jolokia, north-east India"
+    },
+    {
+      "label": "Sour receptor (OTOP1) identified",
+      "value": "2018–2019",
+      "who": "Liman and Zuker labs, USA"
+    }
+  ],
+  "people": [
+    {
+      "name": "Aristotle",
+      "life": "384 – 322 BCE",
+      "role": "Philosopher",
+      "from": "Greece",
+      "note": "Made one of the first lists of basic tastes, with sweet and bitter as the extremes."
+    },
+    {
+      "name": "Kikunae Ikeda",
+      "life": "1864 – 1936",
+      "role": "Chemist",
+      "from": "Japan",
+      "note": "Found glutamate in kombu broth and named its taste umami."
+    },
+    {
+      "name": "Wilbur Scoville",
+      "life": "1865 – 1942",
+      "role": "Pharmacist",
+      "from": "USA",
+      "note": "Invented the dilution test that still gives chilli heat its units."
+    },
+    {
+      "name": "Arthur L. Fox",
+      "life": "active 1930s",
+      "role": "Chemist",
+      "from": "USA",
+      "note": "Discovered by accident that some people cannot taste the bitter chemical PTC."
+    },
+    {
+      "name": "Virginia B. Collings",
+      "life": "20th century",
+      "role": "Psychologist",
+      "from": "USA",
+      "note": "Tested the tongue map in 1974 and showed that every area with taste buds senses every taste."
+    },
+    {
+      "name": "Linda Bartoshuk",
+      "life": "born 1938",
+      "role": "Taste scientist",
+      "from": "USA",
+      "note": "Found supertasters and showed how differently people experience taste."
+    },
+    {
+      "name": "Charles Zuker and Nicholas Ryba",
+      "life": "Zuker born 1957",
+      "role": "Neuroscientists",
+      "from": "Chile and the UK, working in the USA",
+      "note": "Their labs found or pinned down receptors for sweet, umami, bitter, salt and sour."
+    },
+    {
+      "name": "Emily Liman",
+      "life": "20th–21st century",
+      "role": "Neuroscientist",
+      "from": "USA",
+      "note": "Her lab identified OTOP1, the proton channel behind sour taste."
+    },
+    {
+      "name": "David Julius",
+      "life": "born 1955",
+      "role": "Physiologist",
+      "from": "USA",
+      "note": "Used capsaicin to find TRPV1, the heat sensor; Nobel Prize 2021."
+    },
+    {
+      "name": "Ardem Patapoutian",
+      "life": "born 1967",
+      "role": "Neuroscientist",
+      "from": "Lebanon, working in the USA",
+      "note": "Found the touch sensors PIEZO1 and PIEZO2 and co-discovered the cold sensor TRPM8; Nobel Prize 2021."
+    }
+  ],
+  "series": [
+    {
+      "id": "hottest",
+      "title": "The hottest chilli on record",
+      "unit": "Scoville heat units",
+      "log": false,
+      "after": "heat",
+      "caption": "Guinness-certified record holders: from the first million-SHU chilli in 2007, breeders have pushed the heat up by about two and a half times.",
+      "points": [
+        {
+          "year": 2007,
+          "value": 1001304,
+          "label": "Bhut jolokia (India): 1,001,304 SHU"
+        },
+        {
+          "year": 2011,
+          "value": 1463700,
+          "label": "Trinidad Scorpion Butch T (Australia): 1,463,700 SHU, after the Naga Viper briefly held 1,382,118"
+        },
+        {
+          "year": 2013,
+          "value": 1569300,
+          "label": "Carolina Reaper (USA): 1,569,300 SHU"
+        },
+        {
+          "year": 2017,
+          "value": 1641183,
+          "label": "Carolina Reaper re-tested: 1,641,183 SHU"
+        },
+        {
+          "year": 2023,
+          "value": 2693000,
+          "label": "Pepper X (USA): 2,693,000 SHU"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "The tongue map, with sweet on the tip and bitter at the back, is a myth: every part with taste buds tastes all five.",
+    "You can notice bitter quinine at a strength over 1,000 times weaker than the weakest sugar you can notice.",
+    "Chilli heat is not a taste: capsaicin opens TRPV1, the same sensor that warns of burning heat above about 43 °C.",
+    "Your taste cells are replaced about every ten days, some after a few weeks.",
+    "Ayurveda counted six tastes about 2,000 years ago; two of them, pungent and astringent, are now known to be touch and pain rather than taste."
+  ],
+  "sources": [
+    {
+      "title": "Taste",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Taste"
+    },
+    {
+      "title": "On the Soul (De Anima), Book II",
+      "publisher": "Internet Classics Archive, MIT",
+      "url": "https://classics.mit.edu/Aristotle/soul.2.ii.html"
+    },
+    {
+      "title": "Rasa Vimana",
+      "publisher": "Charak Samhita Online (NIIMH / CCRAS)",
+      "url": "https://www.carakasamhitaonline.com/index.php/Rasa_Vimana"
+    },
+    {
+      "title": "Charaka Samhita",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charaka_Samhita"
+    },
+    {
+      "title": "Physiology of the senses: a prominent area of science in Uppsala at the end of the nineteenth century",
+      "publisher": "Upsala Journal of Medical Sciences (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4463480/"
+    },
+    {
+      "title": "Taste (1911 Encyclopaedia Britannica)",
+      "publisher": "Wikisource",
+      "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Taste"
+    },
+    {
+      "title": "Tongue map",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tongue_map"
+    },
+    {
+      "title": "The taste map of the tongue you learned in school is all wrong",
+      "publisher": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/science-nature/neat-and-tidy-map-tastes-tongue-you-learned-school-all-wrong-180963407/"
+    },
+    {
+      "title": "Umami",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Umami"
+    },
+    {
+      "title": "Umami: Innovation story",
+      "publisher": "Ajinomoto Group",
+      "url": "https://www.ajinomoto.com/innovation/our_innovation/umami"
+    },
+    {
+      "title": "Monosodium glutamate",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Monosodium_glutamate"
+    },
+    {
+      "title": "Scoville scale",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Scoville_scale"
+    },
+    {
+      "title": "Wilbur Scoville",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wilbur_Scoville"
+    },
+    {
+      "title": "Phenylthiocarbamide",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Phenylthiocarbamide"
+    },
+    {
+      "title": "The relationship between chemical constitution and taste (PNAS 18:115, 1932)",
+      "publisher": "PNAS",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.18.1.115"
+    },
+    {
+      "title": "Renewal of cells within taste buds (J Cell Biol 27:263, 1965)",
+      "publisher": "Journal of Cell Biology",
+      "url": "https://doi.org/10.1083/jcb.27.2.263"
+    },
+    {
+      "title": "Taste bud",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Taste_bud"
+    },
+    {
+      "title": "Human taste response as a function of locus of stimulation on the tongue and soft palate (Percept Psychophys 16:169)",
+      "publisher": "Perception & Psychophysics (Springer)",
+      "url": "https://link.springer.com/article/10.3758/BF03203270"
+    },
+    {
+      "title": "What is umami?",
+      "publisher": "Umami Information Center",
+      "url": "https://www.umamiinfo.com/what/whatisumami/"
+    },
+    {
+      "title": "Supertaster",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Supertaster"
+    },
+    {
+      "title": "PTC/PROP tasting: anatomy, psychophysics, and sex effects (Physiol Behav 56:1165)",
+      "publisher": "Physiology & Behavior",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7878086/"
+    },
+    {
+      "title": "The capsaicin receptor: a heat-activated ion channel in the pain pathway (Nature 389:816)",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/39807"
+    },
+    {
+      "title": "Press release: The Nobel Prize in Physiology or Medicine 2021",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/medicine/2021/press-release/"
+    },
+    {
+      "title": "Putative mammalian taste receptors (Cell 96:541, 1999)",
+      "publisher": "Cell",
+      "url": "https://doi.org/10.1016/S0092-8674(00)80658-3"
+    },
+    {
+      "title": "The receptors and cells for mammalian taste (Nature 444:288, 2006)",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/nature05401"
+    },
+    {
+      "title": "A novel family of mammalian taste receptors (Cell 100:693, 2000)",
+      "publisher": "Cell",
+      "url": "https://doi.org/10.1016/S0092-8674(00)80705-9"
+    },
+    {
+      "title": "Taste receptor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Taste_receptor"
+    },
+    {
+      "title": "Mammalian sweet taste receptors (Cell 106:381, 2001)",
+      "publisher": "Cell",
+      "url": "https://doi.org/10.1016/S0092-8674(01)00451-2"
+    },
+    {
+      "title": "An amino-acid taste receptor (Nature 416:199, 2002)",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/nature726"
+    },
+    {
+      "title": "Identification of a cold receptor reveals a general role for TRP channels in thermosensation (Nature 416:52)",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/nature719"
+    },
+    {
+      "title": "TRPM8",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/TRPM8"
+    },
+    {
+      "title": "Bhut jolokia",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bhut_jolokia"
+    },
+    {
+      "title": "'Bhut Jolokia': the world's hottest known chile pepper (HortScience 42:222)",
+      "publisher": "HortScience",
+      "url": "https://doi.org/10.21273/HORTSCI.42.2.222"
+    },
+    {
+      "title": "The cells and peripheral representation of sodium taste in mice (Nature 464:297)",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/nature08783"
+    },
+    {
+      "title": "Epithelial sodium channel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Epithelial_sodium_channel"
+    },
+    {
+      "title": "Confirmed: Smokin Ed's Carolina Reaper sets new record for hottest chilli",
+      "publisher": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/news/2013/11/confirmed-smokin-eds-carolina-reaper-sets-new-record-for-hottest-chilli-53033"
+    },
+    {
+      "title": "Carolina Reaper",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Carolina_Reaper"
+    },
+    {
+      "title": "Oleogustus: the unique taste of fat (Chem Senses 40:507)",
+      "publisher": "Chemical Senses",
+      "url": "https://doi.org/10.1093/chemse/bjv036"
+    },
+    {
+      "title": "An evolutionarily conserved gene family encodes proton-selective ion channels (Science 359:1047)",
+      "publisher": "Science",
+      "url": "https://www.science.org/doi/10.1126/science.aao3264"
+    },
+    {
+      "title": "Sour sensing from the tongue to the brain (Cell 179:392)",
+      "publisher": "Cell",
+      "url": "https://www.cell.com/cell/fulltext/S0092-8674(19)30950-X"
+    },
+    {
+      "title": "Symptoms of COVID-19",
+      "publisher": "NHS",
+      "url": "https://www.nhs.uk/conditions/covid-19/covid-19-symptoms-and-what-to-do/"
+    },
+    {
+      "title": "Taste disorders",
+      "publisher": "NIDCD, US National Institutes of Health",
+      "url": "https://www.nidcd.nih.gov/health/taste-disorders"
+    },
+    {
+      "title": "David Julius",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/David_Julius"
+    },
+    {
+      "title": "Hottest chili pepper",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hottest_chili_pepper"
+    },
+    {
+      "title": "Pepper X dethrones Carolina Reaper as world's hottest chilli pepper",
+      "publisher": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/news/2023/10/pepper-x-dethrones-carolina-reaper-as-worlds-hottest-chilli-pepper-759706"
+    },
+    {
+      "title": "Pepper X",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pepper_X"
+    }
+  ]
+}
